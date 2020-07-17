@@ -8,6 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+/**
+ * 这是客户端代码，从https://github.com/sunkeding/ContentProviderStudy 工程获取到ContentProvider，拿到该进程的数据内容
+ */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG="MainActivity2";
     @Override
